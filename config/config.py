@@ -21,7 +21,7 @@ API_HASH = getenv("API_HASH", "56e67fa171fbc2791bf7f47d412fd447")
 BOT_TOKEN = getenv("BOT_TOKEN", "6757500151:AAGekFAkAIrOvq9bFv3KTvXsWlMknvQWAgs")
 # Database to save your chats and stats.
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://erkbwrs084:909090@cluster0.qdrfgmb.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madboy1:madboy11@madboy1.wyklras.mongodb.net/?retryWrites=true&w=majority&appName=madboy1")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 
@@ -61,7 +61,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-8040c0fe-6107-4b4c-802b-af5d186c
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
 
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "Madboy")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "madboy")
 
 # For customized or modified Repository
 
