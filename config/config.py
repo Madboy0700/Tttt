@@ -18,7 +18,7 @@ API_HASH = getenv("API_HASH", "56e67fa171fbc2791bf7f47d412fd447")
 
 ## Get it from @Botfather in Telegram.
 
-BOT_TOKEN = getenv("BOT_TOKEN", "6757500151:AAHzbQnNfc52tnsoqHOxe5JCjuUlcugQWCc")
+BOT_TOKEN = getenv("BOT_TOKEN", "6757500151:AAE0L5Kht5u52SYl0rvcTTuIWosCKG83Qp8")
 # Database to save your chats and stats.
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://erkbwrs084:909090@cluster0.qdrfgmb.mongodb.net/?retryWrites=true&w=majority")
@@ -57,11 +57,11 @@ OWNER_ID = list(
 
 # Get it from http://dashboard.heroku.com/account
 
-HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-1f0b9d66-abb4-4a57-b2e6-6967ce74b022")
+HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-8040c0fe-6107-4b4c-802b-af5d186c9b7e")
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
 
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "pulsemuzik")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "Madboy")
 
 # For customized or modified Repository
 
@@ -77,7 +77,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 # GIT TOKEN ( if your edited repo is private)
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 # Only  Links formats are  accepted for this Var value.
 
